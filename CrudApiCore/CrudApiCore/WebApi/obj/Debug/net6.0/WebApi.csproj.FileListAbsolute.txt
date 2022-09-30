@@ -1,0 +1,6 @@
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache

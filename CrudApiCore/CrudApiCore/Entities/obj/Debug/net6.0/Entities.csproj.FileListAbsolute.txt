@@ -1,0 +1,14 @@
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Entities\bin\Debug\net6.0\Entities.dll
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Entities\bin\Debug\net6.0\Entities.pdb
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Entities\obj\Debug\net6.0\Entities.dll
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Entities\obj\Debug\net6.0\Entities.pdb
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Entities\obj\Debug\net6.0\ref\Entities.dll

@@ -1,0 +1,12 @@
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Business\bin\Debug\net6.0\Crud.Api.Business.deps.json
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Business\bin\Debug\net6.0\Crud.Api.Business.dll
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Business\bin\Debug\net6.0\Crud.Api.Business.pdb
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Business\obj\Debug\net6.0\Crud.Api.Business.csproj.AssemblyReference.cache
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Business\obj\Debug\net6.0\Crud.Api.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Business\obj\Debug\net6.0\Crud.Api.Business.AssemblyInfoInputs.cache
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Business\obj\Debug\net6.0\Crud.Api.Business.AssemblyInfo.cs
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Business\obj\Debug\net6.0\Crud.Api.Business.csproj.CoreCompileInputs.cache
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Business\obj\Debug\net6.0\Crud.Api.Business.dll
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Business\obj\Debug\net6.0\refint\Crud.Api.Business.dll
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Business\obj\Debug\net6.0\Crud.Api.Business.pdb
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Business\obj\Debug\net6.0\ref\Crud.Api.Business.dll

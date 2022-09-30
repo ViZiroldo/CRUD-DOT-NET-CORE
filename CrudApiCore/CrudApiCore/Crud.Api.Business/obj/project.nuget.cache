@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UVdvATkjxigoa2aJTgS9wY3evkAdBBVDTX1IC5+1wTw/8HFUqHGLVq5MeOk6iOoZ/sMksXkjram/CQT9fLQR+Q==",
+  "success": true,
+  "projectFilePath": "D:\\Meus Projetos\\ProcessoSeletivo\\CrudApiCore\\CrudApiCore\\Crud.Api.Business\\Crud.Api.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicios\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

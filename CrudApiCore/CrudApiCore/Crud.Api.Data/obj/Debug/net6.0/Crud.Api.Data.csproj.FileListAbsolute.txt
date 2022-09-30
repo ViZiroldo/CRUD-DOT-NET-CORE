@@ -1,0 +1,15 @@
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Data\bin\Debug\net6.0\Crud.Api.Data.deps.json
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Data\bin\Debug\net6.0\Crud.Api.Data.dll
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Data\bin\Debug\net6.0\Crud.Api.Data.pdb
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Data\bin\Debug\net6.0\Crud.Api.Business.dll
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Data\bin\Debug\net6.0\Crud.Api.Business.pdb
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Data\obj\Debug\net6.0\Crud.Api.Data.csproj.AssemblyReference.cache
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Data\obj\Debug\net6.0\Crud.Api.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Data\obj\Debug\net6.0\Crud.Api.Data.AssemblyInfoInputs.cache
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Data\obj\Debug\net6.0\Crud.Api.Data.AssemblyInfo.cs
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Data\obj\Debug\net6.0\Crud.Api.Data.csproj.CoreCompileInputs.cache
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Data\obj\Debug\net6.0\Crud.Api.Data.csproj.CopyComplete
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Data\obj\Debug\net6.0\Crud.Api.Data.dll
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Data\obj\Debug\net6.0\refint\Crud.Api.Data.dll
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Data\obj\Debug\net6.0\Crud.Api.Data.pdb
+D:\Meus Projetos\ProcessoSeletivo\CrudApiCore\CrudApiCore\Crud.Api.Data\obj\Debug\net6.0\ref\Crud.Api.Data.dll
